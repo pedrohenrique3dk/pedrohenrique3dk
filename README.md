@@ -33,8 +33,8 @@
 
 
 <!-- GithubStats -->
-![Pedro Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohenrique&show_icons=true&theme=gotham)
-![Pedro Henriue Github states](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrique&theme=blue-green).
+![Pedro Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohenrique3dk&show_icons=true&theme=gotham)
+![Pedro Henriue Github states](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrique3dk&theme=blue-green).
 
 <!-- Portfolio -->
 ## Portfolio:

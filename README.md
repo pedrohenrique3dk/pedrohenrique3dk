@@ -38,7 +38,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Calculo Numerico](https://github.com/PedroHenrique1303/Calculo_Numerico)
+- [Calculo Numerico](https://github.com/pedrohenrique3dk/Calculo_Numerico)
 
 ---
 <!-- GIF -->

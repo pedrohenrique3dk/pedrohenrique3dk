@@ -48,25 +48,54 @@
 
 ---
 ## 🔥 Skills
-<!-- Skills: Programming Languages -->
+
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="TypeScript" height="30" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="PHP" height="50" width="60" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">     
+    <img align="center" alt="Java" height="60" width="60" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor"> 
   </div>
+
+  ---
   
+   <div style="flex-basis: 48%;">  
+      <h3>Frontend Development</h3>
+      <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   </div>
+
+   ---
+   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="React" height="40" width="50" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor">
   </div>
 
+  ---
+  
+ <div style="flex-basis: 48%;">
+    <h3>Backend Development</h3>
+    <img align="center" alt="nodejs" height="70" width="80" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor">
+  </div>
+
+  ---
+  
+ <div style="flex-basis: 48%;">
+    <h3>Database</h3>
+    <img align="center" alt="nodejs" height="60" width="70" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
+  </div>
+  
 ---
+
   <br clear="both">
 
 <img src="https://raw.githubusercontent.com/g4brielpy/g4brielpy/output/snake.svg" alt="Snake animation" />
+
+
 

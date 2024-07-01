@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Olá 👋, Eu me chamo Pedro! Um estudante de mátematica e programação apaixonado por desafios e por aprender novos conhecimentos e habilidades;
+  Olá 👋, Eu me chamo Pedro! Um estudante de mátematica e programação, apaixonado por desafios e por aprender novos conhecimentos e habilidades;
 
   - 🌱 Atualmente cursando o 4° semestre de matemática aplicada e computacional na UNICAMP;
 

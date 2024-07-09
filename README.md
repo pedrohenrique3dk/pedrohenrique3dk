@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 Mais sobre mim, clica ai 👇</summary>
 
-  - 💬 Eu tenho 30 anos e estou com perspectiva de concluir meu curso ao final de 2025. Já cursei bacharelado em física em 2014 porém não concluí. Atualmente me dedico a aprimorar meu inglês e aprender diversas linguagens de programação com foco, futuramente, em análise de dados, ciência de dados e machune learning.
+  - 💬 Eu tenho 30 anos e estou com perspectiva de concluir meu curso ao final de 2025. Já cursei bacharelado em física em 2014 porém não concluí. Atualmente me dedico a aprimorar meu inglês e aprender diversas linguagens de programação com foco, futuramente, em análise de dados, ciência de dados e machine learning.
 
   ## ⚡ Principais disciplinas cursadas na graduação:
   * Algoritimo e programação de Computadores (Python);

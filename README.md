@@ -31,15 +31,18 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henrique.bello.fm/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-%F0%9F%92%BB-b939b4299/?trk=public_profile-settings_edit-profile-content)
 
+---
 
 <!-- GithubStats -->
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/g4brielpy/g4brielpy/output/snake.svg" alt="Snake animation" />
 
+---
+
 
 <!-- GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" heigth = "600">
 <br><br>
 
 ---

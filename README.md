@@ -33,11 +33,11 @@
 
 
 <!-- GithubStats -->
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohenrique3dk&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrique3dk&layout=compact&theme=dark)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/g4brielpy/g4brielpy/output/snake.svg" alt="Snake animation" />
 
 
----
 <!-- GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
 <br><br>
@@ -89,9 +89,7 @@
   
 ---
 
-  <br clear="both">
 
-<img src="https://raw.githubusercontent.com/g4brielpy/g4brielpy/output/snake.svg" alt="Snake animation" />
 
 
 

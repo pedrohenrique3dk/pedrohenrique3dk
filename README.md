@@ -1,3 +1,5 @@
+
+
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
@@ -29,6 +31,10 @@
 
 ---
 
+|![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohenrique3dk&count&theme=midnight-purple&private=true) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrique3dk&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+|---------------------------------|-----------------------------------|
+---
+
 <details>
   <summary>👨‍💻 Quer ver meus principais projetos? clica ai 👇</summary>
   
@@ -44,7 +50,7 @@
 
 
 <!-- Links -->
-[![Gmail](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](pedrohenriqueufpa2018@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pedrohenriqueufpa2018@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henrique.bello.fm/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-%F0%9F%92%BB-b939b4299/?trk=public_profile-settings_edit-profile-content)
 

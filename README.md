@@ -11,20 +11,37 @@
   - 🌱 Atualmente cursando o 4° semestre de matemática aplicada e computacional na UNICAMP;
 
   - 🔭 Estou a procura de uma oportunidade como estagiário. 
-</p>
-
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 Mais sobre mim, clica ai 👇</summary>
 
   - 💬 Eu tenho 30 anos e estou com perspectiva de concluir meu curso ao final de 2025. Já cursei bacharelado em física em 2014 porém não concluí. Atualmente me dedico a aprimorar meu inglês e aprender diversas linguagens de programação com foco, futuramente, em análise de dados, ciência de dados e machine learning.
 
   ## ⚡ Principais disciplinas cursadas na graduação:
-  * Algoritimo e programação de Computadores (Python);
-  * Calculo Numerico (Octave);
-  * Mametática Discreta/Fundamentos Matemáticos da Computação;
-  * Algebra Linear;
+  
+  |🟢 Mametática Discreta/Fundamentos Matemáticos da Computação|🟢 Calculo Numerico (Octave)|
+  |---------------------------------------------|--------------------------------------------------|
+  |🟢 Algoritimo e programação de Computadores (Python)|🟢 Algebra Linear|
+  |🟡 Estrutura de Dados (Linguagem C)|🟡 Programação Linear;|APRESENTAÇÃO DO PROJETO |
+
+
+  🟢 = Disciplinas já cursadas;
+  🟡 = Disciplinas sendo cursadas neste período;   
+   
+</p>
+
+---
+
+<details>
+  <summary>👨‍💻 Quer ver meus principais projetos? clica ai 👇</summary>
+  
+  ## PORTIFÓLIO 
+  
+  - [Calculo Numérico](https://github.com/pedrohenrique3dk/Calculo_Numerico)
+  - [PHP Básico](https://github.com/pedrohenrique3dk/Curso_PHP_Basico)
+  - continua...
+
+
+
 </details>
+
 
 <!-- Links -->
 [![Gmail](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](pedrohenriqueufpa2018@gmail.com)

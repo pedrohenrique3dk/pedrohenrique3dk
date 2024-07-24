@@ -18,10 +18,13 @@
 
   ## ⚡ Principais disciplinas cursadas na graduação:
   
-  |🟢 Mametática Discreta/Fundamentos Matemáticos da Computação|🟢 Calculo Numerico (Octave)|
+
+  |🟢 Mametática Discreta/Fundamentos Matemáticos da Computação |🟢 Calculo Numerico (Octave)|
   |---------------------------------------------|--------------------------------------------------|
   |🟢 Algoritimo e programação de Computadores (Python)|🟢 Algebra Linear|
-  |🟡 Estrutura de Dados (Linguagem C)|🟡 Programação Linear;|APRESENTAÇÃO DO PROJETO |
+  |🟡 Estrutura de Dados (Linguagem C)|🟡 Programação Linear|
+  
+  
 
 
   🟢 = Disciplinas já cursadas;

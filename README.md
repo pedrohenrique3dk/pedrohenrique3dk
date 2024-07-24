@@ -79,9 +79,12 @@
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="TypeScript" height="30" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="C" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="C++" height="35" width="45" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor"> 
     <img align="center" alt="PHP" height="50" width="60" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">     
     <img align="center" alt="Java" height="60" width="60" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor"> 
+    
+    
   </div>
 
   ---

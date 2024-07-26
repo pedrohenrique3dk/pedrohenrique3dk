@@ -45,7 +45,7 @@
   
   - [Calculo Numérico](https://github.com/pedrohenrique3dk/Calculo_Numerico)
   - [PHP Básico](https://github.com/pedrohenrique3dk/Curso_PHP_Basico)
-  - [Python](https://github.com/pedrohenrique3dk/Curso_Python_Avancado).
+  - [Python](https://github.com/pedrohenrique3dk/Curso_Python_Avancado)
   - continua...
 
 

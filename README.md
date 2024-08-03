@@ -27,7 +27,8 @@
   
 
 
-  🟢 = Disciplinas já cursadas.
+  🟢 = Disciplinas já cursadas.&nbsp;
+  
   🟡 = Disciplinas sendo cursadas neste período.   
    
 </p>

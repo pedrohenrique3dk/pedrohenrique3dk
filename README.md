@@ -1,4 +1,4 @@
-
+![Gmail](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/youtube.svg)
 
 <!--título-->
 <div id="user-content-toc">
@@ -55,6 +55,7 @@
 
 
 <!-- Links -->
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pedrohenriqueufpa2018@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henrique.bello.fm/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-%F0%9F%92%BB-b939b4299/?trk=public_profile-settings_edit-profile-content)
@@ -75,55 +76,33 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" heigth = "600">
 <br><br>
 
----
-## 🔥 Skills
 
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="TypeScript" height="30" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="C" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img align="center" alt="C++" height="35" width="45" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor"> 
-    <img align="center" alt="PHP" height="50" width="60" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">     
-    <img align="center" alt="Java" height="60" width="60" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor"> 
-    
-    
-  </div>
+## Skills 🔥
 
-  ---
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,php,c,cpp,octave)](https://skillicons.dev)
+
   
-   <div style="flex-basis: 48%;">  
-      <h3>Frontend Development</h3>
-      <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   </div>
+## Front End Developer 
+  
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
-   ---
    
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="React" height="40" width="50" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor">
-  </div>
+## Tools & Frameworks
 
-  ---
-  
- <div style="flex-basis: 48%;">
-    <h3>Backend Development</h3>
-    <img align="center" alt="nodejs" height="70" width="80" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor">
-  </div>
+[![My Skills](https://skillicons.dev/icons?i=django,vscode,react,git)](https://skillicons.dev)
 
-  ---
   
- <div style="flex-basis: 48%;">
-    <h3>Database</h3>
-    <img align="center" alt="nodejs" height="60" width="70" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
-  </div>
+## Backend Development
   
----
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+
+
+  
+## Database
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,)](https://skillicons.dev)
+  
+
 
 
 

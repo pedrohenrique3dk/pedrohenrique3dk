@@ -7,28 +7,27 @@
 
 <!-- Presentation -->
 <p>
-  Olá 👋, Eu me chamo Pedro! Um estudante de mátematica e programação, apaixonado por desafios e por aprender novos conhecimentos e habilidades;
+  Olá 👋, Eu me chamo Pedro! Um estudante de mátematica computacional e programação, apaixonado por desafios e por aprender novos conhecimentos e habilidades;
 
   - 🌱 Atualmente cursando o 4° semestre de matemática aplicada e computacional na UNICAMP;
 
-  - 🔭 Estou a procura de uma oportunidade como estagiário. 
+  - 🔭 Estou a procura de uma oportunidade de estágio. 
 
   - 💬 Eu tenho 30 anos e estou com perspectiva de concluir meu curso ao final de 2025. Já cursei bacharelado em física em 2014 porém não concluí. Atualmente me dedico a aprimorar meu inglês e aprender diversas linguagens de programação com foco, futuramente, em análise de dados, ciência de dados e machine learning.
 
-  ## ⚡ Principais disciplinas cursadas na graduação:
-  
+## ⚡ Principais disciplinas cursadas na graduação
 
-  |🟢 Mametática Discreta/Fundamentos Matemáticos da Computação |🟢 Calculo Numerico (Octave)|
-  |---------------------------------------------|--------------------------------------------------|
-  |🟢 <strong>Algoritimo e programação de Computadores (Python)</strong>|🟢 <strong>Algebra Linear</strong>|
-  |🟡 <trong>Estrutura de Dados (Linguagem C)</strong>|🟡 <strong>Programação Linear</strong>|
-  
-  
+>[!NOTE]
+>As disciplinas tickadas são as que foram concluídas e as não tickadas estão sendo cursadas no semestre atual.
 
-
-  🟢 = Disciplinas já cursadas.&nbsp;
+- [x] Mametática Discreta/Fundamentos Matemáticos da Computação                                 
+- [x]  Algoritimo e programação de Computadores (Python)                                       
+- [ ] Estrutura de Dados (Linguagem C)                                                 
+- [x] Calculo Numerico (Octave)
+- [ ] Probabilidade I
+- [x] Algebra Linear
+- [ ] Programação Linear
   
-  🟡 = Disciplinas sendo cursadas neste período.   
    
 </p>
 
@@ -36,17 +35,42 @@
 
 |![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohenrique3dk&count&theme=midnight-purple&private=true) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrique3dk&theme=midnight-purple&layout=compact)](https://github.com/pedrohenrique3dk/github-readme-stats)
 |---------------------------------|-----------------------------------|
----
+
+___
+
+>[!WARnING]
+> Abaixo tem-se um sumário, e dentro dele existem links para direciona-lo a algum repositório
+>de seu interesse.
+
+>[!NOTE]
+>Os repositórios estão organizados em blocos de linguagens de programação - no caso de projetos de desenvolvimento web - e
+>por nome das disciplinas - em caso de projetos da universidade -.
+
+___
+
 
 <details>
-  <summary>👨‍💻 Quer ver meus principais portifólios? clica ai 👇</summary>
+  <summary>👨‍💻 Quer ver meus principais portifólios? <strong>clica ai</strong> 👇</summary>
   
   ## PORTIFÓLIO 
+
+- Calculo Numérico:
   
-  - [Calculo Numérico](https://github.com/pedrohenrique3dk/Calculo_Numerico)
-  - [PHP Básico](https://github.com/pedrohenrique3dk/Curso_PHP_Basico)
-  - [Python](https://github.com/pedrohenrique3dk/Curso_Python_Avancado)
-  - continua...
+```brush
+    https://github.com/pedrohenrique3dk/Calculo_Numerico
+ ```
+- Python:
+  
+```brush
+    https://github.com/pedrohenrique3dk/Curso_Python_Avancado
+ ```
+- PHP:
+  
+```brush
+    https://github.com/pedrohenrique3dk/Curso_PHP_Basico
+```
+
+ 
 
 
 

@@ -1,4 +1,3 @@
-![Gmail](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/youtube.svg)
 
 <!--título-->
 <div id="user-content-toc">

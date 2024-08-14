@@ -57,21 +57,21 @@ ___
 - Calculo Numérico:
   
 ```brush
-    https://github.com/pedrohenrique3dk/Calculo_Numerico
+https://github.com/pedrohenrique3dk/Calculo_Numerico
  ```
 - Python:
   
 ```brush
-    https://github.com/pedrohenrique3dk/Curso_Python_Avancado
+https://github.com/pedrohenrique3dk/Curso_Python_Avancado
  ```
 - PHP:
   
 ```brush
-    https://github.com/pedrohenrique3dk/SQL_MySQL
+https://github.com/pedrohenrique3dk/SQL_MySQL
 ````
 
 ```brush
-    https://github.com/pedrohenrique3dk/Curso_PHP_Basico
+https://github.com/pedrohenrique3dk/Curso_PHP_Basico
 ```
 
  

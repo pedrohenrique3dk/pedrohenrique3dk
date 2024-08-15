@@ -32,9 +32,12 @@
 </p>
 
 ---
+<div align = "center">
+  
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohenrique3dk&count&theme=midnight-purple&private=true) &nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrique3dk&theme=midnight-purple&layout=compact)](https://github.com/pedrohenrique3dk/github-readme-stats)
 
-|![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohenrique3dk&count&theme=midnight-purple&private=true) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrique3dk&theme=midnight-purple&layout=compact)](https://github.com/pedrohenrique3dk/github-readme-stats)
-|---------------------------------|-----------------------------------|
+</div>
+
 
 ___
 

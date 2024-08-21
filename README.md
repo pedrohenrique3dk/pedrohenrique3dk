@@ -109,7 +109,7 @@ https://github.com/pedrohenrique3dk/Curso_PHP_Basico
 
 ## Skills 🔥
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,php,c,cpp,octave)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,php,c,cpp,octave,latex)](https://skillicons.dev)
 
   
 ## Front End Developer 

@@ -60,16 +60,27 @@ ___
   
   ## PORTIFÓLIO 
 
-- Calculo Numérico:
+- Unicamp:
   
 ```brush
 https://github.com/pedrohenrique3dk/Calculo_Numerico
  ```
+```brush
+https://github.com/pedrohenrique3dk/Fisica_Experimental_II
+```
+
 - Python:
   
 ```brush
 https://github.com/pedrohenrique3dk/Curso_Python_Avancado
  ```
+```brush
+https://github.com/pedrohenrique3dk/Projeto_Analise_Dados_Python
+```
+```brush
+https://github.com/pedrohenrique3dk/Introduction_Pandas_Python
+```
+
 - PHP:
   
 ```brush
@@ -80,7 +91,14 @@ https://github.com/pedrohenrique3dk/SQL_MySQL
 https://github.com/pedrohenrique3dk/Curso_PHP_Basico
 ```
 
- 
+- C/C++:
+
+```brush
+https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024
+```
+```brush
+https://github.com/pedrohenrique3dk/Curso_C_com_Estrutura_de_dados
+```
 
 
 

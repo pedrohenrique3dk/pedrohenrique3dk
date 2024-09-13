@@ -14,11 +14,11 @@
 <p>
   Olá 👋, Eu me chamo Pedro! Um estudante de mátematica computacional e programação, apaixonado por desafios e por aprender novos conhecimentos e habilidades;
 
-  - 🌱 Atualmente cursando o 4° semestre de matemática aplicada e computacional na UNICAMP;
+  - 🎓 Atualmente cursando o 4° semestre de matemática aplicada e computacional na UNICAMP;
 
-  - 🔭 Estou a procura de uma oportunidade de estágio. 
+  - 📊 Estou atualmente estagiando no Itaú na área de Análise de Dados e fazendo Iniciação Científica (como voluntário) em Machine Learning pela Universidade Federal do Pará.
 
-  - 💬 Eu tenho 30 anos e estou com perspectiva de concluir meu curso ao final de 2025. Já cursei bacharelado em física em 2014 porém não concluí. Atualmente me dedico a aprimorar meu inglês e aprender diversas linguagens de programação com foco, futuramente, em análise de dados, ciência de dados e machine learning.
+  - 💬 Eu tenho 30 anos e estou com perspectiva de concluir meu curso ao final de 2026. Já cursei bacharelado em física em 2014 porém não concluí. Atualmente me dedico a aprimorar meu inglês e aprender diversas linguagens de programação com foco, futuramente, em análise de dados, ciência de dados e machine learning.
 
 ## ⚡ Principais disciplinas cursadas na graduação
 
@@ -122,7 +122,7 @@ https://github.com/pedrohenrique3dk/Curso_PHP_Basico
    
 ## Tools & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=django,vscode,react,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,vscode,react,git,aws)](https://skillicons.dev)
 
   
 ## Backend Development

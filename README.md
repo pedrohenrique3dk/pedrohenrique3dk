@@ -130,22 +130,12 @@ https://github.com/pedrohenrique3dk/Curso_C_com_Estrutura_de_dados
 
 ## Skills 🔥
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,php,c,cpp,octave,latex)](https://skillicons.dev)
-
-  
-## Front End Developer 
-  
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=py,php,c,cpp,octave,latex)](https://skillicons.dev)
+ 
    
 ## Tools & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=django,vscode,react,git,aws)](https://skillicons.dev)
-
-  
-## Backend Development
-  
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,vscode,git,github,aws)](https://skillicons.dev)
 
 
   

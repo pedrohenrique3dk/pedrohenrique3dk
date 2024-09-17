@@ -16,7 +16,7 @@
 
   - 🎓 Atualmente cursando o 4° semestre de matemática aplicada e computacional na UNICAMP;
 
-  - 📊 Estou atualmente estagiando no Itaú na área de Análise de Dados e fazendo Iniciação Científica (como voluntário) em Programação Genética pela Universidade Federal do Pará.
+  - 📊 Estou atualmente estagiando no Itaú na área de Data Analytics.
 
   - 💬 Eu tenho 30 anos e estou com perspectiva de concluir meu curso ao final de 2026. Já cursei bacharelado em física em 2014 porém não concluí. Atualmente me dedico a aprimorar meu inglês e aprender diversas linguagens de programação com foco, futuramente, em análise de dados, ciência de dados e machine learning.
 
